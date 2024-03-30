@@ -1,4 +1,4 @@
-baseURL = "https://360solidaires.github.io/website/"
+baseURL = "https://360solidaires.solidairesinformatique.org/"
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
