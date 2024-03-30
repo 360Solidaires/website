@@ -22,4 +22,6 @@ Je tiens personnellement à remercier Adrien, qui a été notre premier adhéren
 
 **Si vous voulez vous investir**, s'il y a des sujets qui vous tiennent à coeur, [**contactez nous !**](../../page/contact)
 
+Si vous souhaitez recevoir notre actualité par mail, nous vous invitons à vous inscrire à [cette liste de diffusion](https://listes.solidairesinformatique.org/sympa/subscribe/news.360solidaires).
+
 \* Pour des raisons évidentes de confidentialité, nous préférons rester vague sur le nombre exact
