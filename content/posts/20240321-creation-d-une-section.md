@@ -21,4 +21,6 @@ Si vous souhaitez nous rejoindre, contactez-nous !
 
 **Pour nous contacter, voir la** [**page contact**](../../page/contact)
 
+----------
+
 Si vous souhaitez recevoir notre actualité par mail, nous vous invitons à vous inscrire à [cette liste de diffusion](https://listes.solidairesinformatique.org/sympa/subscribe/news.360solidaires).

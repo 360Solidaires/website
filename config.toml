@@ -58,6 +58,11 @@ name = "Vos droits"
 weight = 3
 url = "page/vos_droits"
 
+[[menu.main]]
+name = "S'engager"
+weight = 4
+url = "page/s_engager"
+
 #[[menu.main]]
 #name = "Notre Programme"
 #weight = 5
