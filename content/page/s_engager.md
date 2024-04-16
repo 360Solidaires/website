@@ -39,6 +39,14 @@ Néanmoins, afin d'éviter tout risque et toute tentation, nous sommes particuli
 
 Grosso-modo, seuls les membres du CSE et les Représentants de Section Syndicale sont salariés protégés, ce qui les protège d'un licenciement sans cause réelle et sérieuse. Il existe également d'autres mandats protecteurs.
 
+Pourquoi ne pas quitter l'entreprise ?
+======================================
+
+Vous n'êtes toujours pas décidé·e à nous rejoindre ? Vous avez comme idée de démissionner ou de demander une rupture conventionnelle ? Rappelez-vous que lutter ensemble c'est :
+* Permettre à ceux qui n'ont pas les mêmes facilités de recrutement que vous de s'épanouir dans leur travail : profils junior, parents d'enfants en bas âge, ...
+* Faire bloc pour améliorer les conditions de travail de chacun·e
+* Construire une meilleure entreprise où la voix de tout le monde est prise en compte
+
 Des questions ?
 ===============
 
