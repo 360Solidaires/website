@@ -1,6 +1,6 @@
 ---
 title: "Vos droits"
-date: "{{ .Date }}"
+date: 2025-02-12
 draft: false
 ---
 

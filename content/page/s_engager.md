@@ -1,6 +1,6 @@
 ---
 title: "S'engager"
-date: "{{ .Date }}"
+date: 2025-02-12
 draft: false
 ---
 
