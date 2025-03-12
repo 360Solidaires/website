@@ -3,6 +3,10 @@ title: "Notre Programme"
 draft: false
 ---
 
+# 1er tour: 18 mars 8h30-16h30
+
+# 2eme tour: 1er avril 🐟
+
 # Introduction
 
 Nous sommes un groupe d’une quinzaine de salarié·es qui croyons aux valeurs de 360Learning, notamment à sa **culture Convexity**, et souhaitons la préserver et la développer. Nous nous intéressons tout particulièrement aux questions de **charge de travail**, **gestion des problèmes de performance** et **partage de la valeur**, qui sont trois sujets qui sont revenus plusieurs fois ces dernières années. Nous croyons dans un environnement où les talents de chacun·e peuvent s’exprimer, où le surmenage n’est pas une fatalité et où les Plans Individuels de Performance (PIP), quand ils sont nécessaires, sont honnêtes, exécutés de manière loyale et respectent la législation en vigueur.
@@ -57,7 +61,7 @@ Notre objectif est de donner plus de visibilité sur les missions et actions du 
 **Constats**
 
 * certains objectifs non mesurables, soumis à interprétation unique du coach, certaines personnes n’osent pas les remettre en question
-* Les salarié·es sont globalement peu informés de leurs droits (non-obligation de signature, restrictions légales sur les éléments du plan…)
+* Les salarié·es sont globalement peu informé·es de leurs droits (non-obligation de signature, restrictions légales sur les éléments du plan…)
 
 **Actions**
 
@@ -156,6 +160,6 @@ Notre objectif est de donner plus de visibilité sur les missions et actions du 
 **Actions**
 
 * Réalisation d’un questionnaire biannuel sur les Risques Psycho-Sociaux afin de faire un suivi sur la santé de l’entreprise
-* Compilation les résultats et faire des propositions pour améliorer les situations problématiques, locales ou globales
+* Compilation des résultats et faire des propositions pour améliorer les situations problématiques, locales ou globales
 
 
