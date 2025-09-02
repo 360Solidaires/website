@@ -27,6 +27,8 @@ Plusieurs collègues feront grève à partir du 10 septembre et des initiatives 
 
 La section Solidaire Informatique 360Learning
 
+Voir l'appel national: [https://solidairesinformatique.org/wp-content/uploads/2025/08/appel_a_la_greve_budget2026.pdf](https://solidairesinformatique.org/wp-content/uploads/2025/08/appel_a_la_greve_budget2026.pdf)
+
 **Pour nous contacter, voir la** [**page contact**](../../page/contact)
 
 Si vous souhaitez recevoir notre actualité par mail, nous vous invitons à vous inscrire à [cette liste de diffusion](https://listes.solidairesinformatique.org/sympa/subscribe/news.360solidaires).
